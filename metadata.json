@@ -1,0 +1,6 @@
+{
+  "name": "Kotlin Jetpack Compose MVVM Course App",
+  "description": "Complete Android application with Kotlin, Jetpack Compose, Material 3, Navigation Compose, ViewModel, StateFlow, Repository, and Session Management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
